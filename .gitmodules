@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lisaClust"]
+	path = lisaClust
+	url = https://github.com/ellispatrick/lisaclust
+	shallow = true
+	registered = true
+[submodule "spicyR"]
+	path = spicyR
+	url = https://github.com/ellispatrick/spicyr
+	shallow = true
+	registered = true
