@@ -8,8 +8,3 @@
 	url = https://github.com/ellispatrick/lisaclust
 	shallow = true
 	registered = true
-[submodule "spicyR"]
-	path = spicyR
-	url = https://github.com/ellispatrick/spicyr
-	shallow = true
-	registered = true
